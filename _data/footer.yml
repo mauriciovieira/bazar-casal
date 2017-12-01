@@ -3,7 +3,7 @@
     - name: Produtos
       link: /
     - name: Contato
-      link: /contact/
+      link: /contato/
 - title: Ajuda
   links:
     - name: Como Comprar
