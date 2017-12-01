@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Vendo tudo
-url: "https://mauriciovieira.github.io/vendo-tudo/"
+title: Bazar
+url: "https://mauriciovieira.github.io/bazar-casal/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -12,13 +12,12 @@ snipcart_key:
 logo: /siteicon.png
 description: Casal vende tudo para viajar.
 author:
-  name: Mauricio Vieira
-  email: vendo-tudo@mauriciovieira.net
-  twitter: fur # twitter username without the @ symbol
-social:
-  name: Vendo tudo
+  name: Eliza Ramos Vieira e Mauricio Vieira
+  email: bazar.casal.sp@gmail.com
+  social:
+  name: Casal Vende Tudo
   links:
-    - https://github.com/mauriciovieira/vendo-tudo
+    - https://github.com/mauriciovieira/bazar-casal
 
 # -----
 # Build
