@@ -14,15 +14,19 @@
       link: /returns/
 - title: Social
   links:
-    - name: Fur
-      link: 'https://www.facebook.com/'
+    - name: Eliza Ramos
+      link: 'https://www.facebook.com/elizaclr'
       new_window: true
       social_icon: Facebook
-    - name: Fur
-      link: 'https://www.instagram.com/'
+    - name: Maurício Vieira
+      link: 'https://www.facebook.com/mbcvieira'
       new_window: true
-      social_icon: Instagram
-    - name: "@Fur"
-      link: 'https://www.twitter.com'
+      social_icon: Facebook
+    - name: "@elizaramosv"
+      link: 'https://www.twitter.com/elizaramosv'
+      new_window: true
+      social_icon: Twitter
+    - name: "@mauriciovieira"
+      link: 'https://www.twitter.com/mauriciovieira'
       new_window: true
       social_icon: Twitter
