@@ -1,12 +1,10 @@
-- title: General
+- title: Geral
   links:
-    - name: Products
+    - name: Produtos
       link: /
-    - name: Our Story
-      link: /about/
-    - name: Contact
+    - name: Contato
       link: /contact/
-- title: Help
+- title: Ajuda
   links:
     - name: Shipping
       link: /shipping/
