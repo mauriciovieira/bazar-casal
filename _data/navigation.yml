@@ -3,10 +3,12 @@
   new_window: false
   highlight: false
 - name: Como comprar
-  link: /about/
+  link: /como-comprar/
   new_window: false
   highlight: false
 - name: Contato
-  link: /contact/
+  link: /contato/
+- name: Perguntas
+  link: /perguntas/
   new_window: false
   highlight: false
