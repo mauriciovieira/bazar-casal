@@ -6,10 +6,10 @@
       link: /contact/
 - title: Ajuda
   links:
-    - name: Shipping
+    - name: Como Comprar
+      link: /about/
+    - name: Perguntas
       link: /shipping/
-    - name: Returns
-      link: /returns/
 - title: Social
   links:
     - name: Eliza Ramos
