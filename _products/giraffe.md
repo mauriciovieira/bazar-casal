@@ -19,5 +19,5 @@ sizes:
 styles:
   - name: Green
     color: '#67aa79'
-    image: /images/products/giraffe/green.jpg
+    image: images/products/giraffe/green.jpg
 ---

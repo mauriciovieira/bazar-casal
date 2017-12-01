@@ -20,11 +20,11 @@ sizes:
 styles:
   - name: Clay
     color: '#9c5145'
-    image: /images/products/hog/clay.jpg
+    image: images/products/hog/clay.jpg
   - name: Cream
     color: '#dfd3c2'
-    image: /images/products/hog/cream.jpg
+    image: images/products/hog/cream.jpg
   - name: Blue
     color: '#39589e'
-    image: /images/products/hog/blue.jpg
+    image: images/products/hog/blue.jpg
 ---
