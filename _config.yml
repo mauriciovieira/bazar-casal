@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: Fur
-url: "http://turquoise-rook.cloudvent.net/"
+title: Vendo tudo
+url: "https://mauriciovieira.github.io/vendo-tudo/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+snipcart_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Casal vende tudo para viajar.
 author:
-  name: fur
-  email: fur@example.com
+  name: Mauricio Vieira
+  email: vendo-tudo@mauriciovieira.net
   twitter: fur # twitter username without the @ symbol
 social:
-  name: Fur Template
+  name: Vendo tudo
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
+    - https://github.com/mauriciovieira/vendo-tudo
 
 # -----
 # Build
