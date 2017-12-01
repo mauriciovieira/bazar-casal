@@ -8,6 +8,8 @@
   highlight: false
 - name: Contato
   link: /contato/
+  new_window: false
+  highlight: false
 - name: Perguntas
   link: /perguntas/
   new_window: false
