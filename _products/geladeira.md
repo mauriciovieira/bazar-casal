@@ -1,13 +1,12 @@
 ---
 name: Geladeira 240L
 price: '650'
-description: Geladeira Electrolux 240L por R$650
+description: Geladeira Electrolux 240L por R$650. WhatsApp <a href="tel:+551196964-1752">11 96964-1752</a>
 description_markdown: >-
   Geladeira Electrolux RE 31 usada.
-
-  Capacidade 240 litros.
-
-  110v
+  Capacidade 240 litros. <br />
+  110v <br />
+  [Site](http://loja.electrolux.com.br/refrigerador-degelo-pratico-240l-cycle-defrost-branco-re31-electrolux/p)
 garment_type:
 featured: true
 sku: geladeira
