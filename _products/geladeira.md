@@ -1,5 +1,7 @@
 ---
 name: Geladeira 240L
+price: '650'
+description: Geladeira Electrolux 240L por R$650
 description_markdown: >-
   Geladeira Electrolux RE 31 usada.
 
@@ -8,7 +10,6 @@ description_markdown: >-
   110v
 garment_type:
 featured: true
-price: '650'
 sku: geladeira
 stock: 1
 image: /images/products/geladeira/geladeira-1-10perc-deitada.jpg
