@@ -11,7 +11,7 @@ image: /images/products/cabideiro/cabideiro-1-deitado.jpg
 sizes:
   - Unique
 styles:
-  - name: Fechada
+  - name: Unique
     color: '#000000'
     image: /images/products/cabideiro/cabideiro-1.jpg
 ---
