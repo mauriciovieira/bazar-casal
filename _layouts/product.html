@@ -9,8 +9,21 @@ layout: default
 				<div class="product-details">
 					<h3>{{ page.name }} - R$ {{ page.price }},00</h3>
 					{{ page.description_markdown | markdownify }}
+
+					<a class="sm_open" data-modal="examplePlain" data-effect="pushdown">Comprar</a>
 				</div>
 			</div>
 		</div>
 	</section>
+</div>
+
+<div class="slim_modal" id="examplePlain">
+	<div class="sm_content">
+		<div class="sm_content_inner_wrap">
+
+			{% include comprar.html %}
+
+			<a class="sm_close sm_close_button">FECHAR</a>
+		</div>
+	</div>
 </div>
