@@ -20,17 +20,17 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: images/products/tiger/black.jpg
+    image: /images/products/tiger/black.jpg
   - name: Blue
     color: '#39589e'
-    image: images/products/tiger/blue.jpg
+    image: /images/products/tiger/blue.jpg
   - name: Clay
     color: '#9c5145'
-    image: images/products/tiger/clay.jpg
+    image: /images/products/tiger/clay.jpg
   - name: Cream
     color: '#dfd3c2'
-    image: images/products/tiger/cream.jpg
+    image: /images/products/tiger/cream.jpg
   - name: Green
     color: '#67aa79'
-    image: images/products/tiger/green.jpg
+    image: /images/products/tiger/green.jpg
 ---

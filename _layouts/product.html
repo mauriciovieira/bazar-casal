@@ -6,11 +6,9 @@ layout: default
 		<div class="container">
 			<div class="product-container">
 				{% include product-styles.html product=page %}
-				<div class="product-details" id="add">
+				<div class="product-details">
 					<h3>{{ page.name }} - R$ {{ page.price }},00</h3>
 					{{ page.description_markdown | markdownify }}
-
-
 				</div>
 			</div>
 		</div>

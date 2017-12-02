@@ -3,7 +3,7 @@
 
 title: Bazar
 url: "https://mauriciovieira.github.io/bazar-casal/"
-baseurl:
+baseurl: "/bazar-casal"
 google_analytics_key:
 google_maps_javascript_api_key: "AIzaSyDAhtZLQLZQtSOjB-0-T65yDq5yO-Dgdj4"
 snipcart_key:

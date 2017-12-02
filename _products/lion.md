@@ -19,5 +19,5 @@ sizes:
 styles:
   - name: Blue
     color: '#39589e'
-    image: images/products/lion/blue.jpg
+    image: /images/products/lion/blue.jpg
 ---
