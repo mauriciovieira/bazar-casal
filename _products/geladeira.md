@@ -10,7 +10,8 @@ garment_type:
 featured: true
 price: '650'
 sku: geladeira
-stock: 10
+stock: 1
+fb_image: /images/products/geladeira/geladeira-1-10perc.jpg
 sizes:
   - Unique
 styles:
