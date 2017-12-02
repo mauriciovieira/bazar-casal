@@ -11,7 +11,7 @@ featured: true
 price: '650'
 sku: geladeira
 stock: 1
-image: /images/products/geladeira/geladeira-1-10perc.jpg
+image: /images/products/geladeira/geladeira-1-10perc-deitada.jpg
 sizes:
   - Unique
 styles:
