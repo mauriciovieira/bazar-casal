@@ -7,7 +7,7 @@ description_markdown: >-
 featured: true
 sku: ferro-f100
 stock: 1
-image: /images/products/ferro-f100/ferro-f100-1-deitado.jpg
+image: /images/products/ferro-f100/ferro-f100-1.jpg
 sizes:
   - Unique
 styles:
