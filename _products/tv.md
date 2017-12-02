@@ -1,7 +1,7 @@
 ---
 name: Smart TV Samgung LED 46 polegadas
 price: '899'
-description: TV 46" Slim LED Samsung por R$899. WhatsApp <a href="tel:+551196964-1752">11 96964-1752</a>
+description: TV 46" Slim LED Samsung por R$899. WhatsApp 11 96964-1752
 description_markdown: >-
   TV 46" Slim LED Samsung Série 6 ES6100.<br />
   Smart TV com  Netflix e outros aplicativos.<br />

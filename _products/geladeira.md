@@ -1,7 +1,7 @@
 ---
 name: Geladeira 240L
 price: '650'
-description: Geladeira Electrolux 240L por R$650. WhatsApp <a href="tel:+551196964-1752">11 96964-1752</a>
+description: Geladeira Electrolux 240L por R$650. WhatsApp 11 96964-1752
 description_markdown: >-
   Geladeira Electrolux RE 31 usada.
   Capacidade 240 litros. <br />
