@@ -1,7 +1,7 @@
 ---
 name: Secador de cabelos Compacto Turbo Taiff
-price: '80'
-description: Secador de cabelos Taiff por R80. WhatsApp 11 96964-1752
+price: '85'
+description: Secador de cabelos Taiff por R85. WhatsApp 11 96964-1752
 description_markdown: >-
   Secador de Cabelos Compacto Turbo Taiff usado. <br />
   110v <br />

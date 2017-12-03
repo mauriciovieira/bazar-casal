@@ -1,23 +1,29 @@
 ---
-name: Monitor LG 
+name: Monitor LG LED 23" polegadas widescreen
+price: '300'
+description: Monitor LG 23 polegadas widescreen por R$300,00. WhatsApp 11 96964-1752
 description_markdown: >-
-  Geladeira Electrolux RE 31 usada.
+   Monitor LG LED 23" polegadas widescreen usado.
 
-  Capacidade 240 litros.
+  Full HD, entrada HDMI, recursos especiais: Flicker Safe/ Reader Mode, Plug & Play
 
-  110v
+  Completo, com todos os acessórios, caixa e manual.
+  [Site](https://www.kalunga.com.br/prod/monitor-led-23-ips-widescreen-23mp55hq-lg/477068?pcID=18&gclid=CjwKCAiA9f7QBRBpEiwApLGUinjeamXJrx2d_9x4gVSjFEmeYkpPCjnVZWViBhf9uU0mnHbrslA_YBoCjncQAvD_BwE)
 garment_type:
 featured: true
-price: '650'
-sku: geladeira
-stock: 10
+sku: monitor, monitor de pc
+stock: 1
+image: /images/products/monitor/monitor-1-10perc.jpg
 sizes:
   - Unique
 styles:
-  - name: Fechada
+  - name: Monitor
     color: '#000000'
-    image: /images/products/geladeira/geladeira-1-10perc.jpg
-  - name: Blue
+    image: /images/products/monitor/monitor-2-10perc.jpg
+  - name: Monitor
     color: '#39589e'
-    image: /images/products/geladeira/geladeira-2-10perc.jpg
+    image: /images/products/monitor/monitor-3-10perc.jpg
+  - name: Monitor
+    color: '#39589e'
+    image: /images/products/monitor/monitor-4-10perc.jpg
 ---
