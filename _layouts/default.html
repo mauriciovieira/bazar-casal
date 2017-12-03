@@ -42,10 +42,14 @@
 				{% elsif page.name %}
 					<h2>{{ page.name }}</h2>
 				{% endif %}
+				{% if page.call %}
+					<h3>{{ page.call }}</h3>
+				{% endif %}
 			</div>
 		</section>
 
 		{{ content }}
+
 		<footer>
 			<div class="container">
 				<div class="footer-columns">
