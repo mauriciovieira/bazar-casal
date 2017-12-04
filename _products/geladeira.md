@@ -16,9 +16,9 @@ sizes:
   - Unique
 styles:
   - name: Fechada
-    color: '#000000'
+    color: '#fff'
     image: /images/products/geladeira/geladeira-1-10perc.jpg
-  - name: Blue
-    color: '#39589e'
+  - name: Aberta
+    color: '#eee'
     image: /images/products/geladeira/geladeira-2-10perc.jpg
 ---

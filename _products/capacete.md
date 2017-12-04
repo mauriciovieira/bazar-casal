@@ -15,9 +15,9 @@ sizes:
   - Unique
 styles:
   - name: Capacete
-    color: '#000000'
+    color: '#fff'
     image: /images/products/capacete/capacete-2.jpg
   - name: Capacete
-    color: '#000000'
-    image: /images/products/capacete/capacete-3.jpg    
+    color: '#eee'
+    image: /images/products/capacete/capacete-3.jpg
 ---

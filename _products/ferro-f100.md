@@ -12,6 +12,6 @@ sizes:
   - Unique
 styles:
   - name: Unique
-    color: '#000000'
+    color: '#fff'
     image: /images/products/ferro-f100/ferro-f100-1.jpg
 ---

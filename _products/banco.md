@@ -13,6 +13,6 @@ sizes:
   - Unique
 styles:
   - name: Banco
-    color: '#000000'
+    color: '#fff'
     image: /images/products/banco-metal/banco-2-novo.jpg
 ---

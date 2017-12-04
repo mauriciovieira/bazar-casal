@@ -20,6 +20,6 @@ styles:
     color: '#fff'
     image: /images/products/lavadora/lavadora-1.jpg
   - name: Aberta
-    color: '#39589e'
+    color: '#eee'
     image: /images/products/lavadora/lavadora-2.jpg
 ---

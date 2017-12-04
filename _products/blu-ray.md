@@ -15,12 +15,12 @@ sizes:
   - Unique
 styles:
   - name: Fechada
-    color: '#000000'
+    color: '#fff'
     image: /images/products/blu-ray/blu-ray-1.jpg
   - name: Fechada
-    color: '#aaa'
+    color: '#eee'
     image: /images/products/blu-ray/blu-ray-2.jpg
   - name: Fechada
-    color: '#bbb'
+    color: '#ddd'
     image: /images/products/blu-ray/blu-ray-3.jpg
 ---

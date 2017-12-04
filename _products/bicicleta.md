@@ -17,7 +17,7 @@ image: /images/products/bicicleta/bicicleta-1.jpg
 sizes:
   - Unique
 styles:
-  - name: Fechada
-    color: '#000000'
+  - name: Inteira
+    color: '#fff'
     image: /images/products/bicicleta/bicicleta-1.jpg
 ---

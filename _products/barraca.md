@@ -14,6 +14,6 @@ sizes:
   - Unique
 styles:
   - name: Barraca
-    color: '#000000'
+    color: '#fff'
     image: /images/products/barraca/barraca-1-10perc.jpg
 ---
