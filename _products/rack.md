@@ -17,4 +17,7 @@ styles:
   - name: Rack de madeira
     color: '#fff'
     image: /images/products/rack/rack-1-10perc.jpg
+  - name: Rack de madeira
+    color: '#fff'
+    image: /images/products/rack/rack-2-10perc.jpg    
 ---
