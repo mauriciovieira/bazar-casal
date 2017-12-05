@@ -30,20 +30,16 @@ styles:
     image: /images/products/monitor/monitor-4-10perc.jpg
   - name: Monitor
     color: '#fff'
-    image: /images/products/monitor/suporte-1-10perc.jpg
+    image: /images/products/monitor/suporte-1.jpg
   - name: Monitor
     color: '#fff'
-    image: /images/products/monitor/suporte-2-10perc.jpg
+    image: /images/products/monitor/suporte-2.jpg
   - name: Monitor
     color: '#fff'
-    image: /images/products/monitor/suporte-3-10perc.jpg
+    image: /images/products/monitor/suporte-3.jpg
+  - name: monitor
+    image: /images/products/monitor/suporte-4.jpg
   - name: Monitor
     color: '#fff'
-    image: /images/products/monitor/traseira-5-10perc.jpg
-  - name: Monitor
-    color: '#fff'
-    image: /images/products/monitor/traseira-6-10perc.jpg
-  - name: Monitor
-    color: '#fff'
-    image: /images/products/monitor/traseira-7-10perc.jpg
+    image: /images/products/monitor/traseira-1.jpg
 ---
