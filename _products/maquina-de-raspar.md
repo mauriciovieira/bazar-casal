@@ -9,7 +9,7 @@ description_markdown: >-
   [Site](https://www.americanas.com.br/produto/7342228?opn=YSMESP&loja=02&epar=bp_pl_00_go_bs_todas_geral_gmv&WT.srch=1&gclid=CjwKCAiApJnRBRBlEiwAPTgmxHg9-43nI7uz3IhptT60epYD2pP9WaHQKeSs1i-hRickW_ZWF-9wghoCbO0QAvD_BwE)
 garment_type:
 featured: false
-sku: Maquina de raspar, cortador de cabelo
+sku: maquina-de-raspar
 stock: 1
 image: /images/products/maquina-de-raspar/maquina-1.jpg
 sizes:

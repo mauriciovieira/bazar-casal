@@ -3,11 +3,11 @@ name: Mochila Clone
 price: '20'
 description: Mochila Clone por R$50. WhatsApp 11 96964-1752
 description_markdown: >-
-  Mochila Clone, usada, com suporte para notebook.
+  Mochila Clone, usada, com bolso para notebook.
 
 garment_type:
 featured: false
-sku: mochila
+sku: mochila-clone
 stock: 1
 image: /images/products/mochila-clone/mochila-1.jpg
 sizes:

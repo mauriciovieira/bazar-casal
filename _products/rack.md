@@ -8,7 +8,7 @@ description_markdown: >-
   [Site](https://produto.mercadolivre.com.br/MLB-736819475-rack-thayna-plus-para-tvs-ate-32-malbec-e-preto-somopar-_JM)
 garment_type:
 featured: true
-sku: Rack de madeira
+sku: rack
 stock: 1
 image: /images/products/rack/rack-1-10perc.jpg
 sizes:
@@ -19,5 +19,5 @@ styles:
     image: /images/products/rack/rack-1-10perc.jpg
   - name: Rack de madeira
     color: '#fff'
-    image: /images/products/rack/rack-2-10perc.jpg    
+    image: /images/products/rack/rack-2-10perc.jpg
 ---
