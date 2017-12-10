@@ -14,10 +14,10 @@ sizes:
 styles:
   - name: Cadeira
     color: '#fff'
-    image: /images/products/cadeira-rosa/cadeirarosa-1.jpg
+    image: /images/products/cadeira-rosa/cadeirarosa-2.jpg
   - name: Cadeira
     color: '#eee'
-    image: /images/products/cadeira-rosa/cadeirarosa-2.jpg
+    image: /images/products/cadeira-rosa/cadeirarosa-1.jpg
   - name: Cadeira
     color: '#ddd'
     image: /images/products/cadeira-rosa/cadeirarosa-3.jpg
