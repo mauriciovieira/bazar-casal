@@ -8,7 +8,7 @@ description_markdown: >-
 
 garment_type:
 featured: true
-sku: escrivaninha, mesa
+sku: escrivaninha
 stock: 1
 image: /images/products/mesa/mesa-1.jpg
 sizes:

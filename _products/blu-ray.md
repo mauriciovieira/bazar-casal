@@ -7,7 +7,7 @@ description_markdown: >-
   Com o BDP-S190 você acessa filmes e músicas, além de conteúdos da Internet e de parceiros Sony (como Netflix, Sony Brasil, Netmovies, Terra TV, Youtube, Band, SBT, Esporte Interativo, e muitos outros). Basta conectar seu aparelho à Internet e transformar sua TV em uma central de entretenimento.<br />
   Conexão à Internet: Cabo (Não possui conexão Wi-fi).<br />
 garment_type:
-featured: true
+featured: false
 sku: blu-ray
 stock: 1
 image: /images/products/blu-ray/blu-ray-1-rotacionado.jpg

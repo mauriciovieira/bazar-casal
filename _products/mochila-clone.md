@@ -6,7 +6,7 @@ description_markdown: >-
   Mochila Clone, usada, com suporte para notebook.
 
 garment_type:
-featured: true
+featured: false
 sku: mochila
 stock: 1
 image: /images/products/mochila-clone/mochila-1.jpg
@@ -18,6 +18,6 @@ styles:
     image: /images/products/mochila-clone/mochila-1.jpg
   - name: Mochila
     color: '#fff'
-    image: /images/products/mochila-clone/mochila-2.jpg    
+    image: /images/products/mochila-clone/mochila-2.jpg
 
 ---

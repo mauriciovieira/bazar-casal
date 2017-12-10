@@ -24,6 +24,23 @@ call: Estamos em SP, próximos ao metrô Marechal Deodoro, bairro Barra Funda.
 				<li></li>
 				<li></li>
 			</ul>
+			<h3>Outros Produtos</h3>
+			<ul class="product-list">
+				{% for product in site.products %}
+					{% unless product.featured %}
+						<li>
+							{% include product-styles.html product=product %}
+							<div class="product-details">
+								<h4><a href="{{ site.baseurl }}{{ product.url }}">{{ product.name }}</a></h4>
+								<p>R$ {{ product.price }},00</p>
+							</div>
+						</li>
+					{% endunless %}
+				{% endfor %}
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
 		</div>
 	</section>
 </div>

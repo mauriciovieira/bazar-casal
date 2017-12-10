@@ -7,7 +7,7 @@ description_markdown: >-
 
   [Site](https://www.americanas.com.br/produto/19943247/capacete-ciclismo-f44-matt-green-blading-prowell-g-?WT.srch=1&epar=bp_pl_00_go_pla_rlsa_novos_gmv&gclid=CjwKCAiA3o7RBRBfEiwAZMtSCQ1n-UUGqDBpWPrN86CsXNfiMvcd1DVT3-UnvykjWP1l4th0OvG_2hoCcTUQAvD_BwE&opn=YSMESP&sellerId=5700483000231)
 garment_type:
-featured: true
+featured: false
 sku: capacete
 stock: 1
 image: /images/products/capacete/capacete-2.jpg
