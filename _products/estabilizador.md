@@ -17,10 +17,10 @@ styles:
   - name: Estabilizador
     color: '#fff'
     image: /images/products/estabilizador/estabilizador-1.jpg
-  - name: Colchonete
+  - name: Estabilizador
     color: '#eee'
     image: /images/products/estabilizador/estabilizador-2.jpg
-  - name: Colchonete
+  - name: Estabilizador
     color: '#eee'
     image: /images/products/estabilizador/estabilizador-3.jpg
 ---
