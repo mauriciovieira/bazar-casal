@@ -6,7 +6,7 @@ description_markdown: >-
   Cadeira Rosa nova, sem avarias.
 garment_type:
 featured: false
-sku: cadeira, cadeira de escritorio
+sku: cadeira-rosa
 stock: 1
 image: /images/products/cadeira-rosa/cadeirarosa-2.jpg
 sizes:
