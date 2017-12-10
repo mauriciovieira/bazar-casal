@@ -1,7 +1,7 @@
 ---
 name: Bicicleta Wny 21 marchas
-price: '999'
-description: Aro 29 Freio a disco 21 marchas por R$999. WhatsApp 11 96964-1752
+price: '600'
+description: Aro 29 Freio a disco 21 marchas por R$600. WhatsApp 11 96964-1752
 description_markdown: >-
   Bicicleta Wny Aro 29 Freio a Disco 21 Marchas
   Luzes no guidão e no banco.<br />
