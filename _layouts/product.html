@@ -7,12 +7,12 @@ layout: default
 			<div class="product-arrows">
 				{% if page.previous.url %}
 				<span class="button">
-					<a class="" href="{{page.previous.url}}"> ⬅️ </a>
+					<a href="{{ site.baseurl }}{{ page.previous.url }}"> ⬅️ </a>
 				</span>
 				{% endif %}
 				{% if page.next.url %}
 				<span class="button">
-					<a class="" href="{{page.next.url}}"> ➡️ </a>
+					<a href="{{ site.baseurl }}{{ page.next.url }}"> ➡️ </a>
 				</span>
 				{% endif %}
 			</div>
