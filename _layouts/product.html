@@ -4,6 +4,18 @@ layout: default
 <div class="content">
 	<section class="page">
 		<div class="container">
+			<div class="product-arrows">
+				{% if page.previous.url %}
+				<span class="button">
+					<a class="" href="{{page.previous.url}}"> ⬅️ </a>
+				</span>
+				{% endif %}
+				{% if page.next.url %}
+				<span class="button">
+					<a class="" href="{{page.next.url}}"> ➡️ </a>
+				</span>
+				{% endif %}
+			</div>
 			<div class="product-container">
 				{% include product-styles.html product=page %}
 				<div class="product-details">
