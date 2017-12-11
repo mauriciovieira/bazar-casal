@@ -21,7 +21,4 @@ styles:
   - name: Quadro 3
     color: '#eee'
     image: /images/products/quadro-branco/quadro-3.jpg
-  - name: Quadro 4
-    color: '#eee'
-    image: /images/products/quadro-branco/quadro-4.jpg
 ---
