@@ -15,12 +15,6 @@ image: /images/products/colchao-de-ar/colchao-1-10perc.jpg
 sizes:
   - Unique
 styles:
-  - name: Bomba elétrica
-    color: '#fff'
-    image: /images/products/colchao-de-ar/bomba-1.jpg
-  - name: Bomba elétrica
-    color: '#eee'
-    image: /images/products/colchao-de-ar/bomba-2.jpg
   - name: Colchão de ar
     color: '#ddd'
     image: /images/products/colchao-de-ar/colchao-1-10perc.jpg
@@ -33,4 +27,10 @@ styles:
   - name: Colchão de ar
     color: '#999'
     image: /images/products/colchao-de-ar/colchao-4-10perc.jpg
+  - name: Bomba elétrica
+    color: '#fff'
+    image: /images/products/colchao-de-ar/bomba-1.jpg
+  - name: Bomba elétrica
+    color: '#eee'
+    image: /images/products/colchao-de-ar/bomba-2.jpg
 ---
