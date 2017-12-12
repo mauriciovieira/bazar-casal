@@ -8,7 +8,7 @@ garment_type:
 featured: true
 sku: sapato
 stock: 1
-image: /images/products/bolsa-arezzo/bolsa-1.jpg
+image: /images/products/sapato-martinez/sapato-1.jpg
 sizes:
   - Unique
 styles:
