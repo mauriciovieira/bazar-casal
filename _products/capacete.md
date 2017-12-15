@@ -1,7 +1,7 @@
 ---
 name: Capacete Ciclismo F44 Azul
-price: '50'
-description: Capacete Ciclismo F44 por R$50. WhatsApp 11 96964-1752
+price: '80'
+description: Capacete Ciclismo F44 por R$80. WhatsApp 11 96964-1752
 description_markdown: >-
   Capacete Ciclismo F44, tamanho G, usado.
 

@@ -1,7 +1,7 @@
 ---
 name: Mochila Samsonite
-price: '95'
-description: Mochila Samsonite por R$95. WhatsApp 11 96964-1752
+price: '140'
+description: Mochila Samsonite por R$140. WhatsApp 11 96964-1752
 description_markdown:
   Mochila Samsonite, com rodinhas, em ótimo estado, sem avarias.
 garment_type:
@@ -23,5 +23,5 @@ styles:
     image: /images/products/mochila-samsonite/mochila-3.jpg
   - name: Mochila
     color: '#ddd'
-    image: /images/products/mochila-samsonite/mochila-4.jpg    
+    image: /images/products/mochila-samsonite/mochila-4.jpg
 ---

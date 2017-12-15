@@ -1,7 +1,7 @@
 ---
 name: Escrivaninha preta Tok&Stok
-price: '150'
-description: Escrivaninha Tok&Stock preta, por R$150. WhatsApp 11 96964-1752
+price: '200'
+description: Escrivaninha Tok&Stock preta, por R$200. WhatsApp 11 96964-1752
 description_markdown: >-
   Escrivaninha preta Tok&Stok, desmontável.<br />
   Possui três prateleiras de metal, que podem ser montadas à esquerda ou à direita.<br />

@@ -1,7 +1,7 @@
 ---
 name: Mochila preta
-price: '50'
-description: Mochila preta por R$80. WhatsApp 11 96964-1752
+price: '150'
+description: Mochila preta por R$150. WhatsApp 11 96964-1752
 description_markdown:
   Mochila preta, pouquíssimo tempo de uso, sem avarias, novinha em folha!
 garment_type:

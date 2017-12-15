@@ -1,7 +1,7 @@
 ---
 name: Estabilizador Cubic 300W
-price: '35'
-description: Estabilizador APC Cubic 300W por R$35. WhatsApp 11 96964-1752
+price: '50'
+description: Estabilizador APC Cubic 300W por R$50. WhatsApp 11 96964-1752
 description_markdown: >-
   Estabilizador APC Cubic 300W, usado, sem avarias.
 

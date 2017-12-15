@@ -1,7 +1,7 @@
 ---
 name: Cortinas blackout bege
-price: '50'
-description: Cortinas blackout bege por R$50. WhatsApp 11 96964-1752
+price: '80'
+description: Cortinas blackout bege por R$80. WhatsApp 11 96964-1752
 description_markdown: >-
   Cortinas blackout de cor bege. Dimensões: 134cm de comprimento, 137,5cm de largura.
 garment_type:

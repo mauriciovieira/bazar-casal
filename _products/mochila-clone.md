@@ -1,6 +1,6 @@
 ---
 name: Mochila Clone
-price: '20'
+price: '50'
 description: Mochila Clone por R$50. WhatsApp 11 96964-1752
 description_markdown: >-
   Mochila Clone, usada, com bolso para notebook.

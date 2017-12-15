@@ -1,7 +1,7 @@
 ---
 name: Espelho quadrado 47x47cm
-price: '30'
-description: Espelho quadrado por R$30. WhatsApp 11 96964-1752
+price: '40'
+description: Espelho quadrado por R$40. WhatsApp 11 96964-1752
 description_markdown: >-
   Espelho quadrado 47x47cm, sem avarias.
 garment_type:

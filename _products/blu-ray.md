@@ -1,7 +1,7 @@
 ---
 name: Blu-ray/DVD Sony
-price: '130'
-description: Blu-ray/DVD Sony com Youtube por R$130. WhatsApp 11 96964-1752
+price: '170'
+description: Blu-ray/DVD Sony com Youtube por R$170. WhatsApp 11 96964-1752
 description_markdown: >-
   Reprodutor de Blu-ray disk/DVD Sony BDP-S190.<br />
   Com o BDP-S190 você acessa filmes e músicas, além de conteúdos da Internet e de parceiros Sony (como Netflix, Sony Brasil, Netmovies, Terra TV, Youtube, Band, SBT, Esporte Interativo, e muitos outros). Basta conectar seu aparelho à Internet e transformar sua TV em uma central de entretenimento.<br />

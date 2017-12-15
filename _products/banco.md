@@ -1,7 +1,7 @@
 ---
 name: Banco de metal
-price: '20'
-description: Banco de metal por R$20. WhatsApp 11 96964-1752
+price: '50'
+description: Banco de metal por R$50. WhatsApp 11 96964-1752
 description_markdown: >-
   Bando de metal preto, usado.
 garment_type:
